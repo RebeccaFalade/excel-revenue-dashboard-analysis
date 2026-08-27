@@ -1,2 +1,3 @@
-# excel-revenue-dashboard-analysis
-Excel dashboard and analysis of revenue by region and category
+# Excel Revenue Dashboard Analysis
+This repository contains an excel dashboard that visualizes revenue and quantity sold by region and product category, along with an in-depth analysis and insights.
+
